@@ -51,6 +51,13 @@ npm run dev
 * Conexión de las props entre componentes.
 * Implementación del buscador y del carrito de compras.
 
+## Última actualización
+
+- Se optimizó la documentación del proyecto.
+- Se revisó la estructura del repositorio.
+- Se realizaron mejoras finales antes de la entrega.
+
 ## Conclusiones
 
 Este proyecto permitió aprender a crear una aplicación web con React, utilizar componentes, manejar estados con useState, trabajar con archivos JSON y desarrollar una interfaz moderna y organizada.
+
